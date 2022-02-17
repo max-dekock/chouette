@@ -1,0 +1,15 @@
+{
+  "name": "chouette",
+  "version": "0.0.1",
+  "description": "Learn vocabulary while you browse",
+  "main": "background_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-ext run"
+  },
+  "author": "Maxwell DeKock",
+  "license": "ISC",
+  "devDependencies": {
+    "web-ext": "^6.7.0"
+  }
+}
